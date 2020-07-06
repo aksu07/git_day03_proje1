@@ -13,7 +13,7 @@ public class ClassOne {
 
 		System.out.println("remote master branch ");		
 		System.out.println("remote master branch 1. commit");
-		
+		System.out.println("israrla burada master conflit");
 
 	}
 }
